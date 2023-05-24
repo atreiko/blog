@@ -1,4 +1,4 @@
-# Blog | Next.JS & Sanity  
+# BLOG | Next.JS & Sanity
 
 View the project: https://blog-atreiko.vercel.app/  
 
@@ -8,5 +8,3 @@ Libs:
 `classnames`  
 `date-fns`  
 `sass`  
-
-
