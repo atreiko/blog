@@ -1,6 +1,6 @@
 # BLOG | Next.JS & Sanity
 
-View the project: https://blog-atreiko.vercel.app/  
+View project: https://blog-atreiko.vercel.app/  
 
 Libs:  
 `@sanity/block-content-to-react`  
@@ -8,3 +8,8 @@ Libs:
 `classnames`  
 `date-fns`  
 `sass`  
+
+---
+## Preview:  
+
+![Preview image](preview.png)
